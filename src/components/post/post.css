@@ -1,0 +1,24 @@
+.post {
+    max-width: 29%;
+    margin-bottom: 30px;
+}
+.post__header {
+    width: 100%;
+    border-radius: 30px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.post__header img {
+    width: 100%;
+}
+
+.post__body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.post__body h6 {
+    margin: auto;
+    margin-left: 10px;
+}
